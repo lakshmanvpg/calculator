@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        DEPLOY_PATH = "D:\maven_practice"
+        DEPLOY_PATH = "D:\\maven_practice"
     }
 
     stages {
